@@ -1,0 +1,16 @@
+[
+  {
+    "id":"1",
+    "title":"测试1",
+    "message":"测试1",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://pro.m.jd.com/mall/active/3Fv5vcMoGn61RiS3yroNnvK1uggJ/index.html\"}",
+    "icon": "ic_jd_bean"
+  },
+  {
+    "id":"200",
+    "title":"测试2",
+    "message":"测试2",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://m.jr.jd.com/zc/drawSystem/hb/index.html?contentParam=100001759&act=1&actCode=44B2909174&actType=1\"}",
+    "icon": "ic_jd_coin"
+  }
+]
