@@ -3,8 +3,9 @@
     "id":"20",
     "title":"618金钱果摇钱树",
     "message":"摇钱树领钢镚",
-    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://m.jr.jd.com/zc/drawSystem/hb/index.html?contentParam=100001759&act=1&actCode=44B2909174&actType=1\"}",
-    "icon": "ic_jd_coin"
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1976&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_coin",
+    "override_package_name": "com.jd.jrapp"
   },
   {
     "id":"30",
@@ -12,12 +13,5 @@
     "message":"每天三次，奖品不定",
     "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://vip.m.jd.com/newPage/reward\"}",
     "icon": "ic_jd_bean"
-  },
-  {
-    "id":"40",
-    "title":"京东钢镚618活动",
-    "message":"京东钢镚618活动，抽幸运盒子赢钢镚",
-    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://coin.jd.com/page/return.html\"}",
-    "icon": "ic_jd_coin"
   }
 ]

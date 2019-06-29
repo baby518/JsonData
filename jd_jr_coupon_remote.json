@@ -1,0 +1,67 @@
+[
+  {
+    "id":"10",
+    "title":"钱多多每日红包",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1151&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"15",
+    "title":"618金钱果摇钱树领红包",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1976&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"20",
+    "title":"现金红包天天领1",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=937&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"30",
+    "title":"现金红包天天领2",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=776&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"40",
+    "title":"现金红包天天领3",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1500&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"50",
+    "title":"现金红包天天领4",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1210&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"60",
+    "title":"现金红包天天领5",
+    "message":"领取红包，可提现到小金库",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1683&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope"
+  },
+  {
+    "id":"70",
+    "title":"京东支付抽奖抓娃娃，每天抽奖两次",
+    "message":"大概率抽到红包，可提现到小金库",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100000318&actCode=3507312A7C&actType=1\"}",
+    "icon": "ic_jd_red_envelope",
+    "override_package_name": "com.jingdong.app.mall"
+  },
+  {
+    "id":"80",
+    "title":"京东支付抽奖抓娃娃，每天抽奖两次",
+    "message":"大概率抽到红包，可提现到小金库",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://m.jr.jd.com/spe/acs/hymSystem/index.html?contentParam=100001064&actCode=6C6C995B53&actType=1\"}",
+    "icon": "ic_jd_red_envelope",
+    "override_package_name": "com.jingdong.app.mall"
+  }
+]
