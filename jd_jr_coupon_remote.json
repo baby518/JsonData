@@ -3,8 +3,9 @@
     "id":"10",
     "title":"钱多多每日红包",
     "message":"领取红包，可提现到小金库",
-    "uri": "jdmobile://share?jumpType=7&jumpUrl=1151&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
-    "icon": "ic_jd_red_envelope"
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1151&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/activity/qianduoduo/detail",
+    "icon": "ic_jd_red_envelope",
+    "valid": "false"
   },
   {
     "id":"15",

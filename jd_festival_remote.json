@@ -1,17 +1,23 @@
 [
   {
     "id":"20",
-    "title":"618金钱果摇钱树",
-    "message":"摇钱树领钢镚",
-    "uri": "jdmobile://share?jumpType=7&jumpUrl=1976&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
-    "icon": "ic_jd_coin",
-    "override_package_name": "com.jd.jrapp"
+    "title":"618摇一摇领京豆",
+    "message":"每天三次，奖品不定，第一次必得京豆",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://vip.m.jd.com/newPage/reward\"}",
+    "icon": "ic_jd_bean"
   },
   {
     "id":"30",
-    "title":"618摇一摇领京豆",
-    "message":"每天三次，奖品不定",
-    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://vip.m.jd.com/newPage/reward\"}",
+    "title":"数码电器页面分享，领取京豆",
+    "message":"右上角分享，没抽到就再分享一次，每次3京豆，上限9京豆",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://pro.m.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html\"}",
+    "icon": "ic_jd_bean"
+  },
+  {
+    "id":"40",
+    "title":"清凉节页面分享，领取京豆",
+    "message":"右上角分享，没抽到就再分享一次，每次20京豆，上限60京豆",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://pro.m.jd.com/mall/active/2YMFSqZLcxe1wGZd52ZcbwAxNq5L/index.html\"}",
     "icon": "ic_jd_bean"
   }
 ]

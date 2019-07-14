@@ -10,5 +10,11 @@
     "title":"京东活动",
     "file_path": "jd_festival_remote.json",
     "package_name": "com.jingdong.app.mall"
+  },
+  {
+    "id":"1040",
+    "title":"支付宝",
+    "file_path": "alipay_remote.json",
+    "package_name": "com.eg.android.AlipayGphone"
   }
 ]
