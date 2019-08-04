@@ -1,5 +1,12 @@
 [
   {
+    "id":"10",
+    "title":"618摇一摇领京豆",
+    "message":"每天三次，奖品不定，第一次必得京豆",
+    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://vip.m.jd.com/newPage/reward\"}",
+    "icon": "ic_jd_bean"
+  },
+  {
     "id":"11",
     "title":"拍拍二手签到领京豆",
     "message":"每天限量，先领先得",
@@ -39,13 +46,6 @@
     "title":"宠物馆板块签到领京豆",
     "message":"右边签到，每天限量，先领先得，分享页面也可领京豆",
     "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://pro.m.jd.com/mall/active/3GCjZzanFWbJEU4xYEjqfPfovokM/index.html\"}",
-    "icon": "ic_jd_bean"
-  },
-  {
-    "id":"20",
-    "title":"618摇一摇领京豆",
-    "message":"每天三次，奖品不定，第一次必得京豆",
-    "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://vip.m.jd.com/newPage/reward\"}",
     "icon": "ic_jd_bean"
   },
   {

@@ -39,15 +39,16 @@
     "id":"50",
     "title":"现金红包天天领4",
     "message":"领取红包，可提现到小金库",
-    "uri": "jdmobile://share?jumpType=7&jumpUrl=1210&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1683&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
     "icon": "ic_jd_red_envelope"
   },
   {
     "id":"60",
     "title":"现金红包天天领5",
     "message":"领取红包，可提现到小金库",
-    "uri": "jdmobile://share?jumpType=7&jumpUrl=1683&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
-    "icon": "ic_jd_red_envelope"
+    "uri": "jdmobile://share?jumpType=7&jumpUrl=1210&channel=jdapp&sourceUrl=1000*https://m.jr.jd.com/spe/downloadApp/index.html",
+    "icon": "ic_jd_red_envelope",
+    "valid": "false"
   },
   {
     "id":"70",
