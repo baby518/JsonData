@@ -2,10 +2,10 @@
   {
     "id":"10",
     "title":"钱多多每日红包",
-    "message":"领取红包，可提现到小金库",
+    "message":"领取红包，可提现到小金库，点击“立即提现”后再点击“在京东金融APP提现”",
     "uri": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"m\",\"url\":\"https://m.jr.jd.com/activity/qianduoduo/detail\"}",
     "icon": "ic_jd_red_envelope",
-    "package_name": "com.jingdong.app.mall"
+    "override_package_name": "com.jingdong.app.mall"
   },
   {
     "id":"15",
